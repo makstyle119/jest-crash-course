@@ -1,0 +1,15 @@
+{
+  "name": "jest-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["JEST", "Unit Testing"],
+  "author": "Mohammad Moiz Ali (MAKSTYLE119)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
