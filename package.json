@@ -6,10 +6,16 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": ["JEST", "Unit Testing"],
+  "keywords": [
+    "JEST",
+    "Unit Testing"
+  ],
   "author": "Mohammad Moiz Ali (MAKSTYLE119)",
   "license": "MIT",
   "devDependencies": {
     "jest": "^29.3.0"
+  },
+  "dependencies": {
+    "axios": "^1.1.3"
   }
 }
